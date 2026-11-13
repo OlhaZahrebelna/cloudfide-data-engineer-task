@@ -18,7 +18,7 @@ cloudfide-data-engineer-task/
 └── README.md
 ```
 
-If test files are included in the submitted repository, list them here as well.
+
 
 ## Requirements and setup
 
