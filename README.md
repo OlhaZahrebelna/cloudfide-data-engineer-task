@@ -24,6 +24,7 @@ cloudfide-data-engineer-task/
 
 - Python 3.12.5
 - `pandas`
+- pytest 
 
 From the project directory:
 
