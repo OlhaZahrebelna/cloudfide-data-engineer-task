@@ -184,7 +184,7 @@ python3 -m pytest -v
 **Latest verified result:**
 
 ```text
-18 passed in 0.67s
+18 passed
 ```
 
 The tests cover individual transformations and an integration scenario connecting data cleaning, revenue calculation, and regional aggregation.
