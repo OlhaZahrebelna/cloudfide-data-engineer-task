@@ -163,8 +163,6 @@ Alternatively, open the file in VS Code and execute the `# %%` cells in order. T
 
 ## Testing
 
-## Testing
-
 The project includes 18 automated tests implemented with `pytest`:
 
 - **12 tests in `test_pipeline.py`** covering revenue calculation, negative quantities, missing values, duplicate removal, embedded CSV headers, region normalization, numeric formatting, invalid dates, regional aggregation, and full pipeline integration.
